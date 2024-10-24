@@ -4,7 +4,7 @@ body {
 }
 
 #tituloCadastros {
-    color: brown;
+    color: #a52a2a;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .cadastro-card {
-    color: rgb(32, 68, 99);
+    color: #204463;
     background-color: rgb(197, 197, 219);
     border-radius: 5px;
     text-align: center;
